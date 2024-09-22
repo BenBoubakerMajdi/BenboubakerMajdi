@@ -1,4 +1,4 @@
-👋I'm a second-year Software Engineering student specializing in Full-Stack Web Development. 
+👋I'm a final-year (5th) Software Engineering student specializing in Full-Stack Web Development. 
 I have hands-on experience and a passion for building fully dynamic, optimized, and well-designed web applications.
 
 Beyond software development, I enjoy traveling 🌍, listening to loud Brazilian Phonk Music 🎧, and training hard in the gym 🏋️‍♂️.
