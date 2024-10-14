@@ -84,12 +84,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center" style="display:flex; gap:30px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/majdi-benboubaker/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&size=20" alt="LinkedIn Badge" width="100" height="35"/>
   </a>
   <a href="mailto:majdiboubaker82@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60"/> <!-- Updated Gmail icon -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&size=20" alt="Gmail Badge" width="100" height="35"/>
   </a>
 </p>
 
