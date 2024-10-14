@@ -1,6 +1,6 @@
 ![Majdi Benboubaker GitHub Profile Banner](./GithubProfileBanner.png)
 
-<h2>Hey there! I'm Majdi Benboubaker</h2>
+<h2>👋 Hey there! I'm Majdi Benboubaker</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Majdi Benboubaker -->
 
