@@ -14,7 +14,18 @@
 ✉️ &nbsp;You can shoot me an email at majdiboubaker82@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Night Coding" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Night Coding" width="400px" /></p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/majdi-benboubaker/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&size=20" alt="LinkedIn Badge" width="100" height="35"/>
+  </a>
+  <a href="mailto:majdiboubaker82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&size=20" alt="Gmail Badge" width="100" height="35"/>
+  </a>
+</p>
 
 
 ### 🛠 &nbsp;Programming Languages:
@@ -81,17 +92,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BenBoubakerMajdi&theme=algolia&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
   </a>
 </p>
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/majdi-benboubaker/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&size=20" alt="LinkedIn Badge" width="100" height="35"/>
-  </a>
-  <a href="mailto:majdiboubaker82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&size=20" alt="Gmail Badge" width="100" height="35"/>
-  </a>
-</p>
-
 
