@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I enjoy doing sports as a hobby.\
 💬 &nbsp;Feel free to reach out—I'd love to connect and have a great conversation.\
 ✉️ &nbsp;You can shoot me an email at majdiboubaker82@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/BenboubakerMajdi/BenboubakerMajdi/raw/main/CV_MajdiBenboubaker_English.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://github.com/BenboubakerMajdi/BenboubakerMajdi/raw/main/CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Night Coding" width="400px" /></p>
 
